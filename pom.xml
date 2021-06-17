@@ -39,6 +39,13 @@
 			<scope>test</scope>
 		</dependency>
 		
+		<!-- Para J9++ -->
+		<dependency>
+		    <groupId>org.glassfish.jaxb</groupId>
+		    <artifactId>jaxb-runtime</artifactId>
+		</dependency>
+		
+		
 	</dependencies>
 	
 	<dependencyManagement>
